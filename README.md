@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 🧑‍💻 About Me:
 B. Tech CSE '26  MERN Stack Developer, Web Developer
-### 🌐 Social:
+### 🌐 Connect with me:
 ✉️ swapnilmeshram514@gmail.com
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
@@ -25,7 +25,7 @@ B. Tech CSE '26  MERN Stack Developer, Web Developer
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 ![](https://github-readme-stats.vercel.app/api?username=swapnil-meshram-09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=swapnil-meshram-09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-meshram-09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
