@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### 🧑‍💻 About Me:
 B. Tech CSE '26  MERN Stack Developer, Web Developer
-### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilmeshram514@gmail.com) 
+### 🌐 Social:
+<! -- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilmeshram514@gmail.com) -->
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
