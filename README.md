@@ -2,7 +2,7 @@
 ### 🧑‍💻 About Me:
 B. Tech CSE '26  MERN Stack Developer, Web Developer
 ### 🌐 Connect with me:
-✉️ swapnilmeshram514@gmail.com
+✉️ swapnil.meshram.contact@gmail.com
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
